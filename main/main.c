@@ -45,5 +45,5 @@ void app_main(void)
     }
 
     ESP_ERROR_CHECK(webserver_start());
-    ESP_LOGI(TAG, "NETTOOL V0.8s ready");
+    ESP_LOGI(TAG, "NETTOOL V0.9 ready");
 }

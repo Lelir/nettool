@@ -2,6 +2,7 @@ idf_component_register(
     SRCS
         "main.c"
         "nettool_state.c"
+        "settings.c"
         "wifi_ap.c"
         "ethernet.c"
         "webserver.c"
@@ -13,6 +14,7 @@ idf_component_register(
         esp_wifi
         esp_netif
         esp_event
+        esp_timer
         esp_eth
         esp_http_server
         nvs_flash
