@@ -179,7 +179,7 @@ Téléphone
 
 ## Historique
 
-### V0
+### V0.5
 
 Première base avec ESP32 classique + ElectroDragon LAN8720 V2 via RMII :
 
@@ -225,7 +225,7 @@ Migration et amélioration de la nouvelle plateforme :
 ## Suite prévue
 
 - changement de MAC depuis l'interface Web
-- profils PC / HP / Ricoh / Cisco
+- profils PC / IoT / HP / Ricoh / Cisco
 - MAC personnalisée
 - DNS statique
 - affichage plus détaillé des TLV LLDP/CDP
@@ -240,7 +240,7 @@ Migration et amélioration de la nouvelle plateforme :
 Link       : UP
 Speed      : 100 Mbps FULL
 
-Switch     : LMB-SW-ACCESS01
+Switch     : LAN-SW-ACCESS01
 Port       : Gi1/0/24
 VLAN       : 170
 Mgmt IP    : 10.27.1.15
