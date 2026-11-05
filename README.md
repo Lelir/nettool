@@ -249,7 +249,7 @@ Protocol   : LLDP
 IP mode    : DHCP
 IP         : 192.168.1.53
 Mask       : 255.255.254.0
-Gateway    :  192.168.1.1
+Gateway    : 192.168.1.1
 MAC        : xx:xx:xx:xx:xx:xx
 ```
 
