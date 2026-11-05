@@ -179,7 +179,7 @@ Téléphone
 
 ## Historique
 
-### V0
+### V0.1 à V0.5
 
 Première base avec ESP32 classique + ElectroDragon LAN8720 V2 via RMII :
 
@@ -240,16 +240,16 @@ Migration et amélioration de la nouvelle plateforme :
 Link       : UP
 Speed      : 100 Mbps FULL
 
-Switch     : LMB-SW-ACCESS01
+Switch     : SW-ACCESS01
 Port       : Gi1/0/24
-VLAN       : 170
-Mgmt IP    : 10.27.1.15
+VLAN       : 1234
+Mgmt IP    : 192.168.1.1
 Protocol   : LLDP
 
 IP mode    : DHCP
-IP         : 10.27.170.53
+IP         : 192.168.1.53
 Mask       : 255.255.254.0
-Gateway    : 10.27.170.1
+Gateway    :  192.168.1.1
 MAC        : xx:xx:xx:xx:xx:xx
 ```
 
